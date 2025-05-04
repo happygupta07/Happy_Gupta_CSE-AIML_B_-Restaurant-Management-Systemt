@@ -1,1 +1,1 @@
-this ia a project of reataurant managemant system
+this ia a project of restaurant managemant system
